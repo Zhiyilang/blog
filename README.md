@@ -24,3 +24,7 @@
 RPA 转 Agent 精选路线图（带可复制代码）：[awesome-rpa-to-ai-agent](https://github.com/Zhiyilang/awesome-rpa-to-ai-agent)
 
 *本博客所有文章均为真实项目实测，命令可复现。*
+
+---
+> 💼 **需要定制 / 接单？** 发邮件 **someonelikebaku@163.com**（标题写「接单 + 需求类型」，工作日 24h 内由自动巡检接住回信）。
+> 接单门面（明码标价 + 付款码 + 22 件成品货架）：https://mcd-persona-card.app.workbuddy.host/ ｜ 作品集与开源工具：https://zhiyilang.github.io/
